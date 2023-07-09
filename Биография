@@ -1,4 +1,21 @@
- Я родился в Москве в семидесятом
-На краю города, моча рано ударила в голову
-В четыре активно ругался матом
-В детском саду девочки впервые показали мне п**ду
+Ходьба на телефоне 
+```csharp
+using UnityEngine;
+
+public class PlayerController : MonoBehaviour
+{
+    public float speed = 5f;
+    void Update()
+    {  
+        float moveHorizontal = Input.acceleration.x;
+        float moveVertical = Input.acceleration.z;
+
+        
+        Vector3 movement = new Vector3(moveHorizontal, 0f, moveVertical).normalized;
+        movement *= speed;
+
+     
+        transform.Translate(movement * Time.deltaTime);
+    }
+}
+```
