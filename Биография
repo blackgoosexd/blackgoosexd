@@ -1,3 +1,15 @@
+Начало 
+{
+#if UNITY_ANDROID
+
+     if (input.touchCount > 0)
+     {
+          touch myTouch = Input.GetTouch(0)
+          Vector2 possionOnScreen = myTouch.position;
+          Debug.Log(positionOnScreen)
+     }
+#endif
+}
 Ходьба на телефоне 
 {
     public float speed = 5f;
@@ -13,4 +25,3 @@
      
         transform.Translate(movement * Time.deltaTime);
     }
-}
