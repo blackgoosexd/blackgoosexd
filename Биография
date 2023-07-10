@@ -1,4 +1,28 @@
 Начало 
+камера
+if (isMovingRight) {
+   rb.velocity = new Vector3 (speed, 0f, 0f);
+} else {
+   rb.velocity = new Vector3 (0f, 0f, speed);
+}
+using UnityEngine;
+using System.Collections;
+
+public class cameraFollow : MonoBehaviour {
+
+public GameObject player;
+public Vector3 offset;
+
+   void Start () {
+      offset = transform.position - player.transform.position;
+   }
+	
+   void Update () {
+      transform.position = player.transform.position + offset;
+   }
+
+}
+чтоб кнопки работали
 {
 #if UNITY_ANDROID
 
