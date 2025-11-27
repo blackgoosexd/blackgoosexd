@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**blackgoosexd/blackgoosexd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![karich)](https://github.com/user-attachments/assets/d9ab0fc0-f181-4a1d-91f3-83dc27ba4373)
 
-Here are some ideas to get you started:
+### newbie🧸
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**pull up**
+
+📫 [Написать](https://prostite_ya_sociofob.su)
+
+> *"ббф пеэ ыыйе рджзцо авоцуе"*
+
+Хз зачем
+![Stats](https://github-readme-stats.vercel.app/api?username=blackgoosexd&show_icons=true&theme=radical)
+
+</div>
