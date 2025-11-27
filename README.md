@@ -4,13 +4,7 @@
 
 ### newbie🧸
 
-**pull up**
-
 📫 [Написать](https://prostite_ya_sociofob.su)
 
 > *"ббф пеэ ыыйе рджзцо авоцуе"*
-
-Хз зачем
-![Stats](https://github-readme-stats.vercel.app/api?username=blackgoosexd&show_icons=true&theme=radical)
-
 </div>
